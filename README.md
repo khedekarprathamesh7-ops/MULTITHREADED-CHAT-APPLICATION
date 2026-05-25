@@ -23,3 +23,7 @@ The Client.java file acts as the client-side application. It establishes a conne
 Sockets are a key part of this project because they provide communication channels between the server and clients. A ServerSocket listens for incoming connections, while a Socket object creates communication between individual clients and the server. Input and output streams such as BufferedReader and PrintWriter are used to read and send messages efficiently.
 
 Overall, this project successfully demonstrates the implementation of networking and multithreading concepts in Java. It provides real-time communication among multiple users, uses concurrent programming for better performance, and illustrates practical use of sockets in client-server application development. The application fulfills the objective of creating a functional multi-user chat system.
+
+OUTPUT : <img width="1017" height="343" alt="Image" src="https://github.com/user-attachments/assets/abf17cc7-6629-41e3-9f43-c09ae163bd15" />
+<img width="1020" height="347" alt="Image" src="https://github.com/user-attachments/assets/dc4f26b5-cc9e-4658-a7d2-2e1f27ea4346" />
+<img width="1016" height="344" alt="Image" src="https://github.com/user-attachments/assets/9373925e-9c16-4573-b98d-5d8ef8488c16" />
